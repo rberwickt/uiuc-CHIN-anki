@@ -1,0 +1,10 @@
+
+{
+  "name": "UIUC-CHIN-filler",
+  "mod": 1238767890,
+  "author": "rberwickt",
+  "description": "used to fill out my UIUC chinese course cards programatically.",
+  "version": "1.0",
+  "disabled": false,
+  "require": "2.1.0"
+}
